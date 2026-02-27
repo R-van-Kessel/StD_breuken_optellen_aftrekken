@@ -111,7 +111,7 @@ function createNavigation() {
     <a href="https://r-van-kessel.github.io/Summon_the_Dragon/klas1.html">📘 Klas 1</a>
     <a href="https://r-van-kessel.github.io/Summon_the_Dragon/klas2.html">📗 Klas 2</a>
     <a href="https://r-van-kessel.github.io/Summon_the_Dragon/klas3.html">📙 Klas 3</a>
-    <a href="https://r-van-kessel.github.io/Summon_the_Dragon/bovenbouw.html">🎓 Bovenbouw</a>
+    <a href="https://r-van-kessel.github.io/Summon_the_Dragon/overig.html">🎓 Overig</a>
   `;
   document.body.prepend(nav);
   
