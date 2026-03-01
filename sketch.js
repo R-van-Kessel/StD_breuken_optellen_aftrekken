@@ -173,7 +173,7 @@ const TITLE_COLOR = [255, 200, 100];
 const TITLE_Y = 30;   // titel hoger/lager
 
 // ONDERTITEL INSTELLINGEN
-const SUBTITLE_TEXT = 'Los alle sommen op om de draak op te roepen!';
+const SUBTITLE_TEXT = 'Los alle sommen op (zonder rekenmachine) om de draak op te roepen!';
 const SUBTITLE_SIZE = 14;
 const SUBTITLE_COLOR = [255, 200, 100];
 const SUBTITLE_Y = 70;   // subtitle afstand
